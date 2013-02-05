@@ -1,0 +1,83 @@
+order,group,category,title,value
+1,rupee,A,X,165
+1,rupee,A,Y,116
+1,rupee,A,Z,121
+1,rupee,B,A,604
+1,rupee,B,B,186
+1,rupee,B,C,699
+2,dollar,one,Star Bucks Coffee,2
+2,dollar,one,Cost of one dozen apples,5.68
+2,dollar,one,Average single US restaurant meal,35.65
+2,dollar,one,Average meal at San Francisco Restaurant,85.27
+3,thousands,sub,T and,"946,087"
+3,thousands,sub,T and and,"11,660"
+3,thousands,sub,T and and and,"425,327"
+3,thousands,sub,T and and and and,"7,325"
+3,thousands,sub,T and and and and and,"3,343"
+3,thousands,sub,T and and and and and and,"131,650",
+3,thousands,sub,T and and and and and and and,"1,397",
+3,thousands,sub,T and and and and and and and and,"1,031",
+4,millions,sub,Bugatti Veyron Super Sports ,"2,400,000",
+4,millions,sub,Aston Martin One-77,"1,850,000", 
+4,millions,sub,Pagani Zonda Clinque Roadster ,"1,750,000",
+4,millions,sub,Lamborghini Reventon,"1,600,000",
+5,billions,Billionaires,Carlos Slim,"74,000,000,000",
+5,billions,Billionaires,Bill Gates,"56,000,000,000",
+5,billions,Billionaires,Larry Page,"19,800,000,000",
+5,billions,Billionaires,Sergey Brin,"19,800,000,000",
+5,billions,Billionaires,Jeff Bezoes,"18,000,000,000",
+5,billions,Politics,Warren Buffett,"50,000,000,000",
+5,billions,Politics,Charles Koch,"22,000,000,000",
+5,billions,Politics,David Koch,"22,000,000,000",
+5,billions,Politics,Michael Bloomberg,"18,100,000,000",
+5,billions,Megaprojects,National missile defense shield cost through 2013,"1,07,690,000,000"
+5,billions,Megaprojects,F-22 Raptor program(halted),"67,610,000,000"
+5,billions,Megaprojects,Planned Russian Bering Strait tunnel,"66,000,000,000"
+5,billions,Megaprojects,Obama's 2011 high speed rail proposal,"53,000,000,000"
+5,billions,Megaprojects,Cost to build SF-to-LA high speed rail,"45,000,000,000"
+5,billions,Megaprojects,UK crossrail,"26,490,000,000"
+5,billions,Megaprojects,King Abdullah Economic city,"50,020,000,000"
+5,billions,Megaprojects,Hong Kong International airport,"27,120,000,000"
+5,billions,Megaprojects,Manhattan Project,"24,400,000,000"
+6,trillions,sub,EU,"13,340,000,000,000"
+6,trillions,sub,US,"10,200,000,000,000"
+6,trillions,sub,Japan,"8,630,000,000,000"
+6,trillions,sub,Germany,"2,480,000,000,000"
+6,trillions,sub,India,"2,140,000,000,000"
+6,trillions,sub,China,"1,907,000,000,000"
+6,trillions,sub,Alpha,"8,906,490,000,000"
+6,trillions,sub,Alpha1,"3,910,140,000,000"
+6,trillions,sub,Alpha11,"4,680,250,000,000"
+6,trillions,sub,Alpha111,"4,053,180,000,000"
+6,trillions,sub,Alpha1111,"6,090,790,000,000"
+6,trillions,sub,Alpha11111,"6,816,680,000,000"
+6,trillions,sub,Alpha111111,"9,352,100,000,000"
+6,trillions,sub,Alpha1111111,"3,143,540,000,000"
+6,trillions,sub,Alpha11111111,"9,909,500,000,000"
+6,trillions,sub,Alpha111111111,"5,440,460,000,000"
+6,trillions,sub,Alpha1111111111,"8,956,300,000,000"
+6,trillions,sub,Alpha11111111111,"6,240,250,000,000"
+6,trillions,sub,Alpha111111111111,"9,408,630,000,000"
+2,dollar,one,A,169
+2,dollar,two,A1,312
+2,dollar,two,A11,999
+2,dollar,two,A111,883
+2,dollar,two,A1111,470
+2,dollar,two,A11111,140
+2,dollar,two,A111111,104
+3,thousands,sub,NYC,"25,416"
+3,thousands,sub,San Francisco,"21,888"
+3,thousands,sub,Boston,"18,216"
+3,thousands,sub,Los Angeles,"17,640"
+3,thousands,sub,DC,"16,380"
+3,thousands,sub,Chicago,"13,664"
+3,thousands,sub,Minneapolis,"10,908"
+3,thousands,sub,Detroit,"10,080"
+3,thousands,sub,T,"593,286"
+5,billions,Corporate revenue,Global social network ad revenues,"5,500,000,000"
+5,billions,Corporate revenue,Master Card,"5,500,000,000"
+5,billions,Corporate revenue,VISA Inc  .,"8,100,000,000"
+5,billions,Corporate revenue,Walmart made ,"14,300,000,000"
+5,billions,Corporate revenue,Coca Cola,"35,840,000,000"
+5,billions,Corporate revenue,PepsiCo,"57,840,000,000"
+5,billions,Corporate revenue,For cancer care in USA,"90,000,000,000"
